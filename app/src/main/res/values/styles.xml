@@ -1,0 +1,99 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name = "Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">55sp</item>
+        <item name="android:textColor">#5a5a5a</item>
+        <item name="android:text">El Nido Resorts</item>
+    </style>
+
+    <style name = "activityTwoTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">55sp</item>
+        <item name="android:textColor">#5a5a5a</item>
+        <item name="android:text">El Nido Mahogany</item>
+    </style>
+
+    <style name = "titleOne">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">#5a5a5a</item>
+        <item name="android:text">Lagen Island</item>
+    </style>
+
+    <style name = "activityTwoTitleOne">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">#5a5a5a</item>
+        <item name="android:text">Beach Resort</item>
+    </style>
+
+    <style name = "bodyOne">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:textColor">#767676</item>
+    <item name="android:text">Location: Lagen Island, El Nido, Palawan Island 1229, Philippines</item>
+</style>
+
+    <style name = "bodyTwo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#767676</item>
+        <item name="android:text">Distance from UST: 587.6 km</item>
+    </style>
+
+    <style name = "activityTwoBodyOne">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#767676</item>
+        <item name="android:text">Location: Barangay Corong-Corong, El Nido, Palawan Island 5313, Philippines</item>
+    </style>
+
+    <style name = "activityTwoBodyTwo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#767676</item>
+        <item name="android:text">Distance from UST: 602.9 km</item>
+    </style>
+
+    <style name="buttonOne">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:text">Activity 2</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name = "buttonTwo">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:text">Map</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="activityTwoButtonOne">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:text">Activity 1</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name = "activityTwoButtonTwo">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:text">Map</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+
+</resources>
